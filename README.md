@@ -1,8 +1,8 @@
 # URL to Selection
 
-URL to Selection is a Roam Research extension that automatically converts selected text into markdown links when pasting URLs. It streamlines the process of creating links in your Roam notes by combining text selection and URL pasting into a single action.
+URL to Selection is a Roam Research extension that turns selected text into markdown links when you paste URLs. It simplifies creating links in Roam by combining text selection and URL pasting in one step.
 
-![demo](TODO: Add demo screenshot)
+![demo](https://github.com/qcrao/url-to-selection/raw/main/assets/demo.gif)
 
 ## Features
 
@@ -33,13 +33,6 @@ URL to Selection is a Roam Research extension that automatically converts select
 2. Copy a URL to your clipboard
 3. Press Cmd+V (Mac) or Ctrl+V (Windows/Linux)
 4. The selected text will automatically be converted into a markdown link: `[selected text](url)`
-
-### Example
-
-1. Select the text "Check out this website"
-2. Copy the URL "https://example.com"
-3. Press Cmd+V/Ctrl+V
-4. The text will be converted to: `[Check out this website](https://example.com)`
 
 ## Notes
 
